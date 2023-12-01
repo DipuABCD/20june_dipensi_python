@@ -1,0 +1,14 @@
+What is the purpose continue statement in python?
+
+->It continues with the next iteration of the loop and continues to the next iteration.
+-> Syntax :
+           continue
+->A continue statement ends the current iteration of a loop.
+->Program control is passed from the continue statement to the end of the loop body.
+->A continue statement can only appear within the body of an iterative statement, such as do, for, or whlie.
+-> break statement example :
+for a in range(1,11):
+    print(a)
+    if a==5:
+        break
+

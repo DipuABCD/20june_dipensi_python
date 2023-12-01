@@ -1,0 +1,14 @@
+How Memroy Is Managed In Python?
+
+-> Memroy Management Operates At Three Levels:
+1. Hardware
+2. Operating System
+3. Program/Application
+
+-> Memroy Management In Python Involves The Management Of A Private Heap.
+
+-> All Python Oobjects And Data Structures Are Stored In The Private Heap.
+
+->The Python Memroy Manager Is Involved Only In The Allocation Of The Bytes Object Returned As A Result.
+
+->The Core API Gives Access To Some Tools For The Programmer To Code.
